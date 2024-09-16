@@ -1,9 +1,29 @@
 
-# **TradeXpert - CryptoTradingPlatform**
+# **TradeXpert - Crypto Trading Platform**
 
-A cryptocurrency trading platform allows users to buy, sell, and trade digital currencies like Bitcoin and Ethereum. Cryptocurrencies are decentralized digital assets that use blockchain technology for secure and transparent transactions without the need for banks or intermediaries.
+TradeXpert is a full-stack cryptocurrency trading platform that allows users to easily buy, sell, and trade digital currencies like Bitcoin and Ethereum.
 
-So, I developed a full-stack crypto trading platform that allows users to trade cryptocurrencies seamlessly with `**real-time market data**`. I integrated the`**CoinGecko API**` to provide live price updates and market trends, while `**Razorpay**` and `**Stripe**`payment gateways are used for secure and efficient payment processing. The platform includes `**JWT-based authentication**` for enhanced security, allowing users to manage their accounts safely. I also integrated the `**Gemini API to build a chatbot**` that assists users with quick information and trading queries. The backend is built using `**Spring Boot**`, and the frontend with `**React.js**`, providing a smooth, responsive experience for executing trades, managing portfolios, and handling payments.
+## Features
+
+- **Real-Time Market Data**: Integrated with the **CoinGecko API** for live price updates and market trends.
+- **Secure Payment Processing**: Integrated with **Razorpay** payment gateways for secure transactions.
+- **JWT-Based Authentication**: Provides a high level of security for account management.
+- **Chatbot Support**: Powered by the **Gemini API**, the platform includes a chatbot to assist users with trading queries and quick information.
+
+## Features Overview
+
+### Real-Time Market Data
+Stay updated with live cryptocurrency prices and trends using data from the **CoinGecko API**.
+
+### Secure Payments
+The platform integrates **Razorpay**  for efficient and secure payment processing for investing.
+
+### JWT Authentication
+**JWT-based authentication** ensures that user accounts are securely managed.
+
+### Chatbot
+The platform features a chatbot, built using the **Gemini API**, to provide quick trading information and assist with user queries.
+
 
 # *Technology*
 
@@ -36,31 +56,21 @@ So, I developed a full-stack crypto trading platform that allows users to trade 
 
 # *Screenshots*
 
-![image](https://github.com/user-attachments/assets/5184d299-2b5b-4917-b28f-189ba5ec34c5)
-![image](https://github.com/user-attachments/assets/35c3c859-03ef-46e8-892f-11433cd79031)
-![image](https://github.com/user-attachments/assets/980bf1f9-34fe-4c15-8bf6-ac3b6c1068cd)
-![image](https://github.com/user-attachments/assets/d7c8b567-b8aa-4a25-b6c7-cdc6e3242610)
-![image](https://github.com/user-attachments/assets/315957b5-fa7c-4136-9499-545a32b42b18)
-![image](https://github.com/user-attachments/assets/2b2e8160-a867-4286-8bf4-4e4779716b26)
-![image](https://github.com/user-attachments/assets/c687c9eb-3194-4e27-9255-d9758f80d2bd)
-![image](https://github.com/user-attachments/assets/f80cb8a1-d7ad-41b5-88a5-53718b14bd8e)
-![image](https://github.com/user-attachments/assets/889bcdde-5741-4e30-8231-4ea5ef39b4a2)
-![image](https://github.com/user-attachments/assets/92a5400a-ae6c-4df8-9aa9-72b81a91c5af)
-![image](https://github.com/user-attachments/assets/d8aa246d-971a-429f-8e3f-cd893f383aa6)
-![image](https://github.com/user-attachments/assets/e77699f0-8e1f-4a4e-bebd-2126b670209a)
-![image](https://github.com/user-attachments/assets/6f07875b-770d-4f06-99d6-3573792fd9c5)
-![image](https://github.com/user-attachments/assets/78a68a37-b8e5-4a65-b0ac-1a686d964c51)
+![Screenshot (97)](https://github.com/user-attachments/assets/40154827-f8cf-4f5a-85df-8316af0b8f45)
 
+![Screenshot (98)](https://github.com/user-attachments/assets/bc43e85e-d5f1-4640-bfc0-49a226a49335)
 
+![Screenshot (100)](https://github.com/user-attachments/assets/abe47647-ae18-495a-ba0e-14b2b3dd2d2c)
 
+![Screenshot (101)](https://github.com/user-attachments/assets/f45fdf9d-df20-44b8-b747-a40ff86aa22d)
 
+<img width="351" alt="Screenshot 2024-09-16 123201" src="https://github.com/user-attachments/assets/10d8f102-ffd2-4393-be23-03f7dcc31eee">
 
+<img width="738" alt="Screenshot 2024-09-16 123253" src="https://github.com/user-attachments/assets/2ff0344b-56d5-47bb-b7f9-bb7d7b673871">
 
+![s2](https://github.com/user-attachments/assets/03b915e8-9c6e-4875-96d2-daa63f7b5a0b)
 
-
-
-
-
+![s1](https://github.com/user-attachments/assets/6422e6c7-7180-4064-9815-ec0d720800a7)
 
 
 # *Entities*
