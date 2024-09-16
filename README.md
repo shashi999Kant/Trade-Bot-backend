@@ -1,11 +1,28 @@
 
-# **TradeXpert - CryptoTradingPlatform**
+# **TradeXpert - Crypto Trading Platform**
 
-TradeXpert is a full-stack cryptocurrency trading platform where users can easily buy, sell, and trade digital currencies like Bitcoin and Ethereum. The platform provides real-time market data using the `**CoinGecko API**`, offering live price updates and market trends. For secure payments, it integrates `**Razorpay**`  gateways
-The platform ensures high-level security with `**JWT-based authentication**`n, allowing users to safely manage their accounts. A chatbot, powered by the Gemini API, is available to assist with trading queries and quick information.
-Also integrated the `**Gemini API to build a chatbot**` that assists users with quick information and trading queries.
+TradeXpert is a full-stack cryptocurrency trading platform that allows users to easily buy, sell, and trade digital currencies like Bitcoin and Ethereum.
 
-The backend is built with Spring Boot, while the frontend uses React.js, delivering a smooth and responsive experience for trading, portfolio management, and payment processing.
+## Features
+
+- **Real-Time Market Data**: Integrated with the **CoinGecko API** for live price updates and market trends.
+- **Secure Payment Processing**: Integrated with **Razorpay** payment gateways for secure transactions.
+- **JWT-Based Authentication**: Provides a high level of security for account management.
+- **Chatbot Support**: Powered by the **Gemini API**, the platform includes a chatbot to assist users with trading queries and quick information.
+
+## Features Overview
+
+### Real-Time Market Data
+Stay updated with live cryptocurrency prices and trends using data from the **CoinGecko API**.
+
+### Secure Payments
+The platform integrates **Razorpay**  for efficient and secure payment processing.
+
+### JWT Authentication
+**JWT-based authentication** ensures that user accounts are securely managed.
+
+### Chatbot
+The platform features a chatbot, built using the **Gemini API**, to provide quick trading information and assist with user queries.
 
 
 # *Technology*
