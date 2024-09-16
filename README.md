@@ -16,7 +16,7 @@ TradeXpert is a full-stack cryptocurrency trading platform that allows users to 
 Stay updated with live cryptocurrency prices and trends using data from the **CoinGecko API**.
 
 ### Secure Payments
-The platform integrates **Razorpay**  for efficient and secure payment processing.
+The platform integrates **Razorpay**  for efficient and secure payment processing for investing.
 
 ### JWT Authentication
 **JWT-based authentication** ensures that user accounts are securely managed.
