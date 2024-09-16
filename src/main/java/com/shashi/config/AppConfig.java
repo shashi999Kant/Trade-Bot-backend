@@ -89,7 +89,8 @@ public class AppConfig {
                         "http://localhost:3000",
                         "http://localhost:5173",
                         "http://localhost:5174",
-                        "http://localhost:8080"
+                        "http://localhost:8080",
+                        "https://trade-bot-backend.onrender.com"                    
                 ));
                 cfg.setAllowedMethods(Collections.singletonList("*"));
                 cfg.setAllowCredentials(true);
