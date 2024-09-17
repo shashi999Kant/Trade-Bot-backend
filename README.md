@@ -1,7 +1,7 @@
 
-# **TradeXpert - Crypto Trading Platform**
+# **Trade-Bot - Crypto Trading Platform**
 
-TradeXpert is a full-stack cryptocurrency trading platform that allows users to easily buy, sell, and trade digital currencies like Bitcoin and Ethereum.
+Trade-Bot is a full-stack cryptocurrency trading platform that allows users to easily buy, sell, and trade digital currencies like Bitcoin and Ethereum.
 
 ## Features
 

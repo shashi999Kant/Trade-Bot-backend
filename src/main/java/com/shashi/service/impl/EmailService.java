@@ -53,7 +53,7 @@ public class EmailService {
                 + "<p>The One Time Password is valid for the next <strong>10 minutes</strong>.</p>"
                 + "<p style='color:gray; font-size:12px;'>(This is an auto generated email, so please do not reply back. Email at "
                 + "<a href='mailto:shashibabu6390@gmail.com'>shashibabu6390@gmail.com</a> if you need assistance.)</p>"
-                + "<p>Regards,<br/>Sarthak Rastogi</p>"
+                + "<p>Regards,<br/>Shashi Kant Tiwari</p>"
                 + "<img src='cid:policeOfficerImage' alt='Police Officer' style='width:100px; height:auto;'/>"
                 + "</body>"
                 + "</html>";
