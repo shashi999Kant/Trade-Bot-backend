@@ -118,8 +118,8 @@ public class PaymentServiceImpl implements PaymentService {
             paymentLinkRequest.put("reminder_enable",true);
 
             // Set the callback URL and method
-//            paymentLinkRequest.put("callback_url","https://tradexpert-backend.onrender.com/wallet/"+orderId);
-            paymentLinkRequest.put("callback_url","http://localhost:5173/wallet/"+orderId);
+           paymentLinkRequest.put("callback_url","https://trade-bot-backend.onrender.com/wallet/"+orderId);
+            // paymentLinkRequest.put("callback_url","http://localhost:5173/wallet/"+orderId);
             paymentLinkRequest.put("callback_method","get");
 
             // Create the payment link using the paymentLink.create() method
@@ -148,10 +148,10 @@ public class PaymentServiceImpl implements PaymentService {
         SessionCreateParams params = SessionCreateParams.builder()
                 .addPaymentMethodType(SessionCreateParams.PaymentMethodType.CARD)
                 .setMode(SessionCreateParams.Mode.PAYMENT)
-//                .setSuccessUrl("https://tradexpert-backend.onrender.com/wallet?order_id="+orderId)
-//                .setCancelUrl("https://tradexpert-backend.onrender.com/payment/cancel")
-                .setSuccessUrl("http://localhost:5173/wallet?order_id="+orderId)
-                .setCancelUrl("http://localhost:5173/payment/cancel")
+               .setSuccessUrl("https://trade-bot-backend.onrender.com/wallet?order_id="+orderId)
+               .setCancelUrl("https://trade-bot-backend.onrender.com/payment/cancel")
+                // .setSuccessUrl("http://localhost:5173/wallet?order_id="+orderId)
+                // .setCancelUrl("http://localhost:5173/payment/cancel")
                 .addLineItem(SessionCreateParams.LineItem.builder()
                         .setQuantity(1L)
                         .setPriceData(SessionCreateParams.LineItem.PriceData.builder()
